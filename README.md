@@ -18,7 +18,7 @@
 
 游戏提供三种类型不同的炮台供玩家选择。
 
-<img src="https://github.com/StarryJam/TowerDefence/blob/master/README_Pic/turrets.gif" alt="turrets" style="zoom: 67%;" />
+<img src="https://github.com/StarryJam/TowerDefence/blob/master/README_Pic/turrets.gif" style="zoom: 67%;" />
 
 
 
