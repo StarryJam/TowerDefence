@@ -2,7 +2,7 @@
 
 ### 项目简介
 
-本项目为本人使用Unity3D独立开发的塔防游戏，模型、音效资源均来自互联网。
+本项目为本人使用Unity3D独立开发的塔防游戏，部分模型、音效资源来自互联网。
 
 
 
@@ -18,7 +18,7 @@
 
 游戏提供三种类型不同的炮台供玩家选择。
 
-<img src="https://github.com/StarryJam/TowerDefence/blob/master/README_Pic/turrets.gif" style="zoom: 67%;" />
+<img src="https://github.com/StarryJam/TowerDefence/blob/master/README_Pic/turrets.gif" alt="turrets" style="zoom: 67%;" />
 
 
 
